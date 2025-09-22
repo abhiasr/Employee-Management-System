@@ -1,10 +1,7 @@
-# 👩‍💼 Employee Management System – Final Project for Udemy Java Course
+#  Employee Management System – Final Project
 
-This is the **final project** for the Java Basic Udemy Course, designed to help you apply everything you've learned — including variables, control flow, loops, arrays, methods, and object-oriented programming (OOP).
 
----
-
-## 🧠 Project Goal
+## Project Goal
 
 Create a simple **Employee Management System** that allows you to:
 
@@ -15,7 +12,7 @@ Create a simple **Employee Management System** that allows you to:
 
 ---
 
-## 🛠️ Concepts Practiced
+## 🛠 Concepts Practiced
 
 - ✅ Java class structure (`public class`, `main`, etc.)
 - ✅ Object creation (`new` keyword)
